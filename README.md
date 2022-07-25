@@ -6,7 +6,7 @@
 </br>
 
 <p>
-  Me chamo Leonardo Silva Castro, tenho 21 anos, sou apaixonado por programação❤e desenvolvimento web voltado ao Front-end. Atualmente estou cursando o ensino superior em Engenharia De Software (2º Semestre). Iniciei engenhaia de software assim que finalizei um curso pelo IFPA (Instituto Federal Do Pará),  foi um curso em "Programação web" onde aprendi um pouco de Front-end e Back-end. Após este curso, busquei novas formas de aprendizagem, além de aprimorar minhas habilidades em Front-end, estudando linguagens e frameworks.
+  Me chamo Leonardo Silva Castro, tenho 21 anos, sou apaixonado por programação❤e desenvolvimento web junto ao Front-end. Atualmente estou cursando o ensino superior em Engenharia De Software (2º Semestre). Iniciei engenhaia de software assim que finalizei um curso pelo IFPA (Instituto Federal Do Pará),  foi um curso em "Programação web" onde aprendi um pouco de Front-end e Back-end. Após este curso, busquei novas formas de aprendizagem, além de aprimorar minhas habilidades em Front-end, estudando linguagens e frameworks.
 </p>
 
 <div align="center">
