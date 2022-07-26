@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/72839343/180846308-653101e8-09d7-47d2-a111-c836146357a3.png" width="200px">
+  <img src="https://user-images.githubusercontent.com/72839343/180894121-51e30f8c-b319-4373-8ad8-d2ac1ed6695f.png" width="200px">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </div>
 
 </br>
 
 <p>
-  Me chamo Leonardo Silva Castro, tenho 21 anos, sou apaixonado por programação❤e desenvolvimento web junto ao Front-end. Atualmente estou cursando o ensino superior em Engenharia De Software (2º Semestre). Iniciei engenhaia de software assim que finalizei um curso pelo IFPA (Instituto Federal Do Pará),  foi um curso em "Programação web" onde aprendi um pouco de Front-end e Back-end. Após este curso, busquei novas formas de aprendizagem, além de aprimorar minhas habilidades em Front-end, estudando linguagens e frameworks.
+  Me chamo <img src="https://user-images.githubusercontent.com/72839343/180894029-22683061-dc13-46d1-be85-c49d6faf552a.png" width="180px">, tenho 21 anos, sou apaixonado por programação❤, café e jogos eletrônicos. Atualmente estou no ensino superior cursando Engenharia De Software (2º Semestre). Iniciei engenhaia de software assim que finalizei um curso pelo IFPA (Instituto Federal Do Pará),  foi um curso em "Programação web", onde aprendi um pouco de Front-end e Back-end. Após este curso, busquei novas formas de aprendizagem, além de aprimorar minhas habilidades em Front-end, estudando linguagens e frameworks.
 </p>
 
 <div align="center">
@@ -54,3 +54,12 @@
   </div>
 </div>
 
+</br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/72839343/180894886-18ba98c8-463e-426e-85c3-7b07c7ce1263.png" width="130px">
+  <div>
+  <br>
+   <a href="www.leocastro.site">www.leocastro.site</a>
+  </div>
+</div>
