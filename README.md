@@ -56,7 +56,7 @@
    <a href="">
    <img src="https://user-images.githubusercontent.com/72839343/180892790-9df4561c-ac04-46a5-9f72-e3e0fa400196.png" width="100px">
    </a>
-   <a href="">
+   <a href="https://api.whatsapp.com/send?phone=+5594992195331">
    <img src="https://user-images.githubusercontent.com/72839343/180892961-12ef9873-d5ef-4a46-bf7c-984e59d157ee.png" width="100px">
    </a>
   </div>
