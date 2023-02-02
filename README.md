@@ -1,5 +1,5 @@
 <div align="center" display="flex">
-  <img src="https://i.gifer.com/origin/f7/f7e3705a7ba4425137dfb78af39b9735_w200.gif" width="80px">
+  <img src="https://mwcorvettes.com/wp-content/uploads/2019/03/savethewave-300x252.gif" width="80px">
   <img src="https://user-images.githubusercontent.com/72839343/180894121-51e30f8c-b319-4373-8ad8-d2ac1ed6695f.png" width="400px">
 </div>
 
