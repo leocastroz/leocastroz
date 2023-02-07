@@ -43,24 +43,7 @@
 
 </br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/72839343/180889363-528aef7d-49c7-47be-8ad5-fa53c3b137b3.png" width="150px">
-  <div>
-  <br>
-  <a href="https://www.facebook.com/LeonardoCastro.Leoneell/">
-   <img src="https://user-images.githubusercontent.com/72839343/180892612-0219b33d-5268-4d1f-a08e-bbd7e5a304a6.png" width="100px">
-  </a>
-  <a href="https://www.instagram.com/leocastro_x/">
-   <img src="https://user-images.githubusercontent.com/72839343/180892540-3a079b9b-3c00-4831-9080-cf34d119deaa.png" width="100px">
-   </a>
-   <a href="">
-   <img src="https://user-images.githubusercontent.com/72839343/180892790-9df4561c-ac04-46a5-9f72-e3e0fa400196.png" width="100px">
-   </a>
-   <a href="https://api.whatsapp.com/send?phone=+5594992195331">
-   <img src="https://user-images.githubusercontent.com/72839343/180892961-12ef9873-d5ef-4a46-bf7c-984e59d157ee.png" width="100px">
-   </a>
-  </div>
-</div>
+
 
 </br>
 
