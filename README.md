@@ -6,7 +6,7 @@
 </br>
 
 <p>
-  Me chamo <img src="https://user-images.githubusercontent.com/72839343/180894029-22683061-dc13-46d1-be85-c49d6faf552a.png" width="175px">, tenho 21 anos, sou apaixonado por programação❤, café e jogos eletrônicos. Atualmente faço ensino superior em Engenharia De Software (3º Semestre). Iniciei engenhaia de software assim que finalizei um curso pelo IFPA (Instituto Federal Do Pará),  foi um curso em "Programação web", onde aprendi um pouco de Front-end e Back-end. Após este curso, busquei novas formas de aprendizagem, além de aprimorar minhas habilidades em Front-end, estudando linguagens e frameworks.
+  Me chamo <img src="https://user-images.githubusercontent.com/72839343/180894029-22683061-dc13-46d1-be85-c49d6faf552a.png" width="175px">, tenho 21 anos, sou apaixonado por programação❤, café e jogos eletrônicos. Atualmente faço ensino superior em Engenharia De Software (3º Semestre). Iniciei engenharia de software assim que finalizei um curso pelo IFPA (Instituto Federal Do Pará),  foi um curso em "Programação web", onde aprendi um pouco de Front-end e Back-end. Após este curso, busquei novas formas de aprendizagem, além de aprimorar minhas habilidades em Front-end, estudando linguagens e frameworks.
 </p>
 
 <div align="center">
