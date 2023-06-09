@@ -1,57 +1,56 @@
 <div align="center" display="flex">
-  <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d1/Enchanted_Diamond_Sword.gif/revision/latest?cb=20201118111712" width="60px">
-  <img src="https://user-images.githubusercontent.com/72839343/180894121-51e30f8c-b319-4373-8ad8-d2ac1ed6695f.png" width="400px">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7c95ec7b-5a4f-4aef-93df-78fad9ba2505/ddh4slr-82c38d93-e1a3-4414-9128-d8613670dc97.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjOTVlYzdiLTVhNGYtNGFlZi05M2RmLTc4ZmFkOWJhMjUwNVwvZGRoNHNsci04MmMzOGQ5My1lMWEzLTQ0MTQtOTEyOC1kODYxMzY3MGRjOTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ElJVJDFOgnKjHAN3UP_yjOqxk1s3lWSyPtIo7tseO30" width="100px">
+  <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/83c878f4-e702-483c-86e1-cb017385c912" width="300px">
 </div>
 
 </br>
 
 <p>
-  Me chamo <img src="https://user-images.githubusercontent.com/72839343/180894029-22683061-dc13-46d1-be85-c49d6faf552a.png" width="175px">, tenho 21 anos, sou apaixonado por programação❤, café e jogos eletrônicos. Atualmente faço ensino superior em Engenharia De Software (3º Semestre). Iniciei engenharia de software assim que finalizei um curso pelo IFPA (Instituto Federal Do Pará),  foi um curso em "Programação web", onde aprendi um pouco de Front-end e Back-end. Após este curso, busquei novas formas de aprendizagem, além de aprimorar minhas habilidades em Front-end, estudando linguagens e frameworks.
+  Me chamo <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/10d398d8-7ef8-4a14-b2c5-a907a595c4ca" width="175px">, tenho 21 anos, sou apaixonado por programação❤, café e jogos eletrônicos. Atualmente faço ensino superior em Engenharia De Software (4º Semestre). Iniciei engenharia de software assim que finalizei um curso pelo IFPA (Instituto Federal Do Pará),  foi um curso em "Programação web", onde aprendi um pouco de Front-end e Back-end. Após este curso, busquei novas formas de aprendizagem, além de aprimorar minhas habilidades em Front-end, estudando linguagens e frameworks.
 </p>
 
+<br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/72839343/180845014-adab9bc4-7d6f-445b-9a05-c5f130ce2d9a.png" width="150px">
+  <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/1dc30d6c-b217-48c9-8250-f6b310538c73" width="250px">
   <div>
   <br>
-   <img src="https://user-images.githubusercontent.com/72839343/180889755-1f6488a0-e492-4d1a-a49d-2f9b07ad8c69.png" width="100px">
-   <img src="https://user-images.githubusercontent.com/72839343/180889562-051408f0-2f73-4759-b183-d7b0e3131e9b.png" width="100px">
-   <img src="https://user-images.githubusercontent.com/72839343/180889907-c487e23f-2628-4b0f-a722-3650a531f0c3.png" width="100px">
-   <img src="https://user-images.githubusercontent.com/72839343/180890046-1c1e9730-43ab-4197-b87e-d6f4b8169d67.png" width="100px">
-   <img src="https://user-images.githubusercontent.com/72839343/180890217-3548a4e1-8271-43b4-b247-95f93936ac87.png" width="100px">
-   <img src="https://user-images.githubusercontent.com/72839343/180890403-de7c03f3-709e-4ae1-94aa-4c9967292eae.png" width="100px">
-    <img src="https://user-images.githubusercontent.com/72839343/180890809-8ed189c2-68ee-4b51-aca4-7bb623843da9.png" width="100px">
-    <img src="https://user-images.githubusercontent.com/72839343/180890991-ac0cfc4a-161c-41ad-879a-adc57ff7bf3f.png" width="100px">
-
+   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/5d00663e-8705-4448-8973-3480368882f3" width="100px">
+   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/b976200a-8507-490a-8ff3-42bbc3ae7cea" width="100px">
+   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/a3837522-267f-4783-8a95-ee19acdd80c0" width="100px">
+   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/67d56aea-cab0-48d1-ae81-0d31d7c01cce" width="117px">
+   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/2c543de7-df01-4161-a645-c9620a364df0" width="108px">
+   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/fe0885e2-ee11-4a1f-b6e8-351e9e0e02a6" width="100px">
   </div>
 </div>
 
 </br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/72839343/180851960-06d81e60-3dff-4d1b-af96-aa46f260c960.png" width="150px">
-  <div>
+  <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/f3471632-40f4-439a-b9c2-b1e2fcbe3f2c" width="150px">
+<div>
   
   <br>
-   <img src="https://user-images.githubusercontent.com/72839343/180891165-13114c04-0e53-4609-aa26-9547248f8c06.png" width="100px">
-   <img src="https://user-images.githubusercontent.com/72839343/180891508-fed0eec5-9c6e-4956-b8fa-8d6969e24ce3.png" width="100px">
-   <img src="https://user-images.githubusercontent.com/72839343/180891632-d8431b1a-0aa7-4922-bfbb-5f9423a77c29.png" width="100px">
-   <img src="https://user-images.githubusercontent.com/72839343/180891863-50bdf84c-4988-4d49-a8d1-c7ef47061fa7.png" width="100px">
-   <img src="https://user-images.githubusercontent.com/72839343/180892068-dc951d2f-31f3-4478-a25d-1e624fa3abf5.png" width="100px">
-   <img src="https://user-images.githubusercontent.com/72839343/180892236-52de1f93-6e1c-48ec-9fb9-ebc9e7e22e5a.png" width="100px">
+   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/79ce17f0-863a-4bd1-9ac2-89b7f8f71c5b" width="108px">
+   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/89bf9cb5-9fad-4844-af70-0ccb217623c1" width="98px">
+  <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/4af53e15-4197-4cd5-8fec-180b73ced1d5" width="100px">
+   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/0fa60f12-e100-44ca-8910-9d4cdd8733f7" width="100px">
+   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/032e7660-4be9-4d8d-b3b4-6e788e7aa024" width="100px">
+  <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/e9c7494f-fb07-43d0-99ec-85462d65454e" width="85px">
   </div>
 </div>
 
 </br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leocastroz&bg_color=0d1117&color=ffffff&line=ffffff&point=80ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leocastroz&bg_color=0d1117&color=b34d4d&line=ff9900&point=ffe1b8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 </br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/72839343/180894886-18ba98c8-463e-426e-85c3-7b07c7ce1263.png" width="130px">
-  <div>
+  <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/d60eabd9-2390-4ba7-96bb-51f302882a58" width="130px">
   <br>
+  <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/0fc06362-da6d-46c1-85f0-7ee7512161af" width="20px">
+  <div>
    <a href="https://www.leocastro.site">www.leocastro.site</a>
   </div>
 </div>
