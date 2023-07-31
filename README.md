@@ -6,7 +6,7 @@
 </br>
 
 <p>
-  Me chamo <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/88277726-4ffe-44f3-a420-68b87398290c" width="160px">, tenho 21 anos, sou apaixonado por programação❤, café e jogos eletrônicos. Atualmente faço ensino superior em Engenharia De Software (4º Semestre). Iniciei engenharia de software assim que finalizei um curso pelo IFPA (Instituto Federal Do Pará),  foi um curso em "Programação web", onde aprendi um pouco de Front-end e Back-end. Após este curso, busquei novas formas de aprendizagem, além de aprimorar minhas habilidades em Front-end, estudando linguagens e frameworks.
+  Me chamo <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/88277726-4ffe-44f3-a420-68b87398290c" width="160px">, tenho 22 anos, sou apaixonado por programação❤, café e jogos eletrônicos. Atualmente faço ensino superior em Engenharia De Software (4º Semestre). Iniciei engenharia de software assim que finalizei um curso pelo IFPA (Instituto Federal Do Pará),  foi um curso em "Programação web", onde aprendi um pouco de Front-end e Back-end. Após este curso, busquei novas formas de aprendizagem, além de aprimorar minhas habilidades em Front-end, estudando linguagens e frameworks.
 </p>
 
 <br>
