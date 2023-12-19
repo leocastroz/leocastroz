@@ -47,5 +47,5 @@
   </div>
 </div>
 </br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leocastroz&bg_color=0d1117&color=a5a5a5&line=707070&point=dedede&area=true&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leocastroz&bg_color=rgba(13,17,23,0)&color=a5a5a5&line=707070&point=dedede&area=false&hide_border=true">
 
