@@ -13,8 +13,12 @@
   <br>
   access: <a href="https://www.linkedin.com/in/leoscastro/">LinkedIn</a>
 </p>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRobzdieDNyMmxiem5tbTFmOGg5bHY4YXZ4NnNrdjNta29rcWpnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FYdK9eFqsDBEQ/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <br>
+
 <div align="">
+ 
+
   <img src="https://github.com/leocastroz/leocastroz/assets/72839343/81ae7385-8507-4f80-a1dc-8d73151bf7c0" width="160px">
   <div>
   <br>
@@ -39,6 +43,7 @@
     <img src="https://static-00.iconduck.com/assets.00/bootstrap-icon-512x512-f3dudm5z.png" width="25px">
   </div>
 </div>
+
 
 </br>
 
