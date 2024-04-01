@@ -13,7 +13,7 @@
   <br>
   access: <a href="https://www.linkedin.com/in/leoscastro/">LinkedIn</a>
 </p>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRobzdieDNyMmxiem5tbTFmOGg5bHY4YXZ4NnNrdjNta29rcWpnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FYdK9eFqsDBEQ/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRobzdieDNyMmxiem5tbTFmOGg5bHY4YXZ4NnNrdjNta29rcWpnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FYdK9eFqsDBEQ/giphy.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="aspiral">
 <br>
 
 <div align="">
