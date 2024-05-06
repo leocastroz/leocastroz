@@ -5,15 +5,16 @@
 </br>
 
 <p>
-  I'm Leonardo Silva Castro, I'm 22 years old and I'm a front-end programmer.
+  Hello, I'm Leonardo Castro, I'm a front-end developer.
   <br>
-  I'm a "Software Engineer", I'm in the 5th semester.
-  <br>
+  I'm majoring in "Software Engineer", I'm in the 5th semester.
+  <br>  <br>
   access: <a href="https://www.leocastro.site">www.leocastro.site</a>
   <br>
+ 
   access: <a href="https://www.linkedin.com/in/leoscastro/">LinkedIn</a>
 </p>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRobzdieDNyMmxiem5tbTFmOGg5bHY4YXZ4NnNrdjNta29rcWpnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FYdK9eFqsDBEQ/giphy.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="aspiral">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRobzdieDNyMmxiem5tbTFmOGg5bHY4YXZ4NnNrdjNta29rcWpnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FYdK9eFqsDBEQ/giphy.gif" min-width="300px" max-width="300px" width="250px" align="right" alt="aspiral">
 <br>
 
 <div align="">
