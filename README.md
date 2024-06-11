@@ -9,7 +9,7 @@
   <br>
   I'm majoring in "Software Engineer", I'm in the 6th semester.
   <br>  <br>
-  access: <a href="https://www.leocastro.site">www.leocastro.site</a>
+  access: <a href="https://leoc.vercel.app/">www.leoc.vercel.app</a>
   <br>
  
   access: <a href="https://www.linkedin.com/in/leoscastro/">LinkedIn</a>
