@@ -7,7 +7,7 @@
 <p>
   Hello, I'm Leonardo Castro, I'm a front-end developer.
   <br>
-  I'm majoring in "Software Engineer", I'm in the 5th semester.
+  I'm majoring in "Software Engineer", I'm in the 6th semester.
   <br>  <br>
   access: <a href="https://www.leocastro.site">www.leocastro.site</a>
   <br>
