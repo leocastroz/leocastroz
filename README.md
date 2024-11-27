@@ -5,16 +5,16 @@
 </br>
 
 <p>
-  Hello, I'm Leonardo Castro, I'm a front-end developer.
+  Hello, I'm Leonardo Castro, I'm a Frontend Developer.
   <br>
   I'm majoring in "Software Engineer", I'm in the 7th semester.
   <br>  <br>
-  access: <a href="https://leoc.vercel.app/">www.leoc.vercel.app</a>
+  access: <a href="https://www.likemy.me/leocastro">likemy.me/leocastro</a>
   <br>
  
   access: <a href="https://www.linkedin.com/in/leoscastro/">LinkedIn</a>
 </p>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRobzdieDNyMmxiem5tbTFmOGg5bHY4YXZ4NnNrdjNta29rcWpnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FYdK9eFqsDBEQ/giphy.gif" min-width="300px" max-width="300px" width="250px" align="right" alt="aspiral">
+<img src="https://media.contentapi.ea.com/content/dam/eacom/SIMS/franchise-homepage/240322/common/thesims-plumbob-simpsirations.gif" min-width="300px" max-width="300px" width="250px" align="right" alt="aspiral">
 <br>
 
 <div align="">
@@ -23,25 +23,17 @@
   <img src="https://github.com/leocastroz/leocastroz/assets/72839343/81ae7385-8507-4f80-a1dc-8d73151bf7c0" width="160px">
   <div>
   <br>
-    <img src="https://static-00.iconduck.com/assets.00/vue-js-icon-512x442-k8qh9h45.png" width="25px" alt="vue.js">
-    *
-    <img src="https://static-00.iconduck.com/assets.00/nuxtjs-icon-512x343-16hzp9e7.png" width="25px">
-    *
-    <img src="https://static-00.iconduck.com/assets.00/file-type-quasar-icon-512x512-2uo5xg8e.png" width="25px">
-     *
-    <img src="https://static-00.iconduck.com/assets.00/file-type-ionic-icon-512x512-0d5eky66.png" width="25px">
-     *
-    <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="25px">
-     *
-    <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="25px">
-     *
-    <img src="https://static-00.iconduck.com/assets.00/docker-icon-512x370-5593ilur.png" width="25px">
-     *
-    <img src="https://static-00.iconduck.com/assets.00/javascript-js-icon-512x512-q3igwln6.png" width="25px">
-     *
-    <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" width="25px">
-     *
-    <img src="https://static-00.iconduck.com/assets.00/bootstrap-icon-512x512-f3dudm5z.png" width="25px">
+    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" width="80" alt="vue.js">
+    <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" width="75" alt="nuxt.js">
+    <img src="https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black" width="90" alt="quasar.js">
+    <img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white" width="80" alt="ionic">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" width="93" alt="node.js">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="90" alt="python">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" width="100" alt="supabase">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" width="90" alt="docker">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="120" alt="javascript">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" width="120" alt="tailwindcss">
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" width="110" alt="bootstrap">
   </div>
 </div>
 
@@ -52,21 +44,14 @@
   <img src="https://github.com/leocastroz/leocastroz/assets/72839343/499d4250-986f-4018-9591-f1bd8221c064" width="150px">
 <div>
   <br>
-   <img src="https://static-00.iconduck.com/assets.00/windows-icon-510x512-f0dcmun5.png" width="25px">
-   *
-   <img src="https://static-00.iconduck.com/assets.00/ubuntu-inverse-icon-512x512-ddgcfupp.png" width="25px">
-   *
-   <img src="https://static-00.iconduck.com/assets.00/macos-icon-512x512-hi8duqwj.png" width="25px">
-   *
-   <img src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" width="25px">
-   *
-   <img src="https://static-00.iconduck.com/assets.00/git-icon-512x512-61zfmvxk.png" width="25px">
-   *
-   <img src="https://static-00.iconduck.com/assets.00/figma-icon-341x512-i3eb09bq.png" width="18px">
-   *
-   <img src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png" width="25px">
-   *
-   <img src="https://static-00.iconduck.com/assets.00/trello-icon-512x512-tvmznu7l.png" width="25px">
+   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="80" alt="windows">
+   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" width="84" alt="fedora">
+   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" width="85" alt="macos">
+   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="145" alt="vscode">
+   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="57" alt="git">
+   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" width="74" alt="figma">
+   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" width="66" alt="jira">
+   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" width="80" alt="trello">
   </div>
 </div>
 </br>
