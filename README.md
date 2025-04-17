@@ -7,7 +7,7 @@
 <p>
   Hello, I'm Leonardo Castro, I'm a Full Stack Developer.
   <br>
-  I'm majoring in "Software Engineer", I'm in the 7th semester.
+  Lead Development Engineer.
   <br>  <br>
   access: <a href="https://www.likemy.me/leocastro">likemy.me/leocastro</a>
   <br>
