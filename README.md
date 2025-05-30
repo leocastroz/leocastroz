@@ -14,7 +14,7 @@
  
   access: <a href="https://www.linkedin.com/in/leoscastro/">in/leoscastro/</a>
 </p>
-<img src="https://media.contentapi.ea.com/content/dam/eacom/SIMS/franchise-homepage/240322/common/thesims-plumbob-simpsirations.gif" min-width="300px" max-width="300px" width="250px" align="right" alt="aspiral">
+<img src="https://i.pinimg.com/originals/f0/4b/a9/f04ba908d1744c429505ac5239c35e63.gif" min-width="300px" max-width="300px" width="250px" align="right" alt="aspiral">
 <br>
 
 <div align="">
