@@ -9,10 +9,10 @@
   <br>
   Lead Software Enginner.
   <br>  <br>
-  access: <a href="https://www.likemy.me/leocastro">likemy.me/leocastro</a>
+  👉🏼 <a href="https://www.likemy.me/leocastro">likemy.me/leocastro</a>
   <br>
  
-  access: <a href="https://www.linkedin.com/in/leoscastro/">in/leoscastro/</a>
+  👉🏼 <a href="https://www.linkedin.com/in/leoscastro/">in/leoscastro/</a>
 </p>
 <img src="https://i.pinimg.com/originals/f0/4b/a9/f04ba908d1744c429505ac5239c35e63.gif" min-width="300px" max-width="300px" width="250px" align="right" alt="aspiral">
 <br>
