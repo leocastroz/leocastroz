@@ -7,7 +7,7 @@
 <p>
   Hello, I'm Leonardo Castro, I'm a Full Stack Developer.
   <br>
-  Lead Development Engineer.
+  Lead Software Enginner.
   <br>  <br>
   access: <a href="https://www.likemy.me/leocastro">likemy.me/leocastro</a>
   <br>
