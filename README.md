@@ -6,7 +6,7 @@ new Person({
     email: 'castroz.dev@gmail.com',
     position: 'Senior Software Engineer',
     married: !!!true,
-    website: null,
+    website: "www.broex.com.br",
     social: ['www.instagram.com/leocastro_x', 'www.linkedin.com/in/leoscastro'],
     company: 'confidential',
     technologies: ['quasar', 'nuxt', 'vue', 'node', 'elixir', 'react-native', 'pwa', 'ionic', 'docker', 'dokploy'],
