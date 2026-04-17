@@ -4,7 +4,7 @@ import { Person } from 'Brazil';
 new Person({
     name: 'Leonardo Castro',
     email: 'castroz.dev@gmail.com',
-    position: 'Team Lead',
+    position: 'Senior Software Engineer',
     married: !!!true,
     website: null,
     social: ['www.instagram.com/leocastro_x', 'www.linkedin.com/in/leoscastro'],
